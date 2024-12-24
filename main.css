@@ -1,0 +1,21 @@
+.h2{
+    color: yellow;
+    text-align: center;
+    }
+    body{
+        background-color: 
+         rgb(6, 6, 73);
+    }
+    span{
+        color: green;
+    }
+    p{
+        color: white;
+        text-align: center;
+    }
+    div{
+        text-align: center;
+    }
+    td{
+        color: white;
+    }
